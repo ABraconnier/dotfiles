@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ant.braconnier@gmail.com
+	name = Antoine Braconnier
